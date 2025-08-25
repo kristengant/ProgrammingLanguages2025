@@ -1,1 +1,6 @@
-# ProgrammingLanguages2025
+#Kristen Gant
+#CS-210
+#ProgrammingLanguages2025
+#Corner Grocery Tracking Project
+
+During this project, I developed an item-tracking application in C++ that allows Corner Grocery to analyze its grocery purchase data. The program reads a text file of transactions and outputs statistics to help the store restock its produce section more effectively. The program features a user menu that allows the user to select to view an itemized frequency list, display a histogram of item counts, search for a specific item, or exit the program. I ensured to handle both uppercase and lowercase inputs from users, which was positively noted in the project feedback. I would improve this code by adding percentage-based visualizations or color-coding low stock items to make the program more user-friendly and insightful. The histogram display was customized with color-coding, which was new and challenging code for me. I utilized external references and documentation on color codes within C++ to include them within my application. The skills I learned in this project, including maps, user input handling, and class design with both public and private sections, are all highly transferable skills. These skills can be used for data parsing or inventory systems for future projects. I followed consistent naming conventions, included clear in-line comments, and organized the code for easier readability. These practices will help to make this program maintainable and adaptable in the future for Corner Grocery.
